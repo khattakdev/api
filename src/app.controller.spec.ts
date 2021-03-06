@@ -15,8 +15,13 @@ describe('AppController', () => {
   });
 
   describe('root', () => {
+<<<<<<< HEAD
+    it('should return "Welcome to EddieHub"', () => {
+      expect(appController.getHello()).toBe('Welcome to EddieHub');
+=======
     it('should return "Hello World!"', () => {
       expect(appController.getHello()).toBe('Hello World!');
+>>>>>>> 4688b98c711080fb1afb8b7aa17b38832c00c359
     });
   });
 });
