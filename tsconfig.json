@@ -5,19 +5,11 @@
     "removeComments": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-<<<<<<< HEAD
-=======
-    "allowSyntheticDefaultImports": true,
->>>>>>> 4688b98c711080fb1afb8b7aa17b38832c00c359
     "target": "es2017",
     "sourceMap": true,
     "outDir": "./dist",
     "baseUrl": "./",
     "incremental": true
-<<<<<<< HEAD
   },
   "exclude": ["node_modules", "dist"]
-=======
-  }
->>>>>>> 4688b98c711080fb1afb8b7aa17b38832c00c359
 }
