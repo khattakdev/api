@@ -29,5 +29,5 @@ jobs:
       - uses: actions/setup-node@v2
       - name: install dependencies
         run: npm ci
-      - name: run tests
+      - name: run unit tests
         run: npm run test
