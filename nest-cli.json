@@ -1,5 +1,8 @@
 {
+<<<<<<< HEAD
   "language": "ts",
+=======
+>>>>>>> 4688b98c711080fb1afb8b7aa17b38832c00c359
   "collection": "@nestjs/schematics",
   "sourceRoot": "src"
 }
